@@ -27,11 +27,11 @@ const Footer = () => {
                 <div>
                     <span class="footer-title">OUR ADDRESS</span>
                     <a class="link link-hover">New York - 101010 Hudson</a>
-                   
+
                 </div>
             </div>
             <div className='text-center my-8'>
-                <p>Copyright © 2022 - All right reserved by ACME Industries Ltd</p>
+                <p>Copyright © 2022 - All right reserved </p>
             </div>
         </footer>
     );
